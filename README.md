@@ -1,2 +1,2 @@
 # genestation
-The app and web site starter kit
+The app and web zygote
