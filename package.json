@@ -1,0 +1,30 @@
+{
+  "name": "genestation",
+  "version": "0.0.1",
+  "description": "The app and web zygote",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "^2.0.3",
+    "webpack": "^4.12.2",
+    "webpack-dev-server": "^3.1.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/genestation/genestation.git"
+  },
+  "keywords": [
+    "genomics",
+    "bioinformatics",
+    "search"
+  ],
+  "author": "Mara Kim",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/genestation/genestation/issues"
+  },
+  "homepage": "https://github.com/genestation/genestation#readme"
+}
